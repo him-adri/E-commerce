@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles&display=swap');
+
+.recommendation-container{
+    margin-top: 20px ;
+    padding: 40px;
+}
+
+.recommendation-header{
+    font-size: 40px;
+    font-weight: 600;
+    font-family: 'Fuzzy Bubbles', cursive;
+}
+.recommendation-list {
+    margin-top: 30px;
+    display: flex;
+    overflow-x: scroll;
+    gap: 10px;
+}
+span{
+    color: rgb(143, 76, 143);
+}

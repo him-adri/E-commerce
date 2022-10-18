@@ -1,0 +1,11 @@
+
+.header-img{
+    margin: auto;
+    margin-top: 30px;
+    max-width: 1400px;
+    height: 600px;
+    border-radius: 2px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url('https://i.gadgets360cdn.com/large/Flipkart_Big_Diwali_Sale_1477287794603.jpeg?output-quality=80');
+}
